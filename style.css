@@ -1,0 +1,31 @@
+body
+{
+background: rgb(68, 183, 236);
+color: black;
+}
+
+.heading
+{
+    width: 65%;
+    font-size: 25px;
+}
+
+.name_of_objects
+{
+    color: firebrick;
+}
+
+#camera
+{
+border: 2px dashed rgb(163, 124, 199);
+}
+
+#result_object_name
+{
+    color: firebrick;
+}
+
+#result_object_accuracy
+{
+ color: crimson;
+}
